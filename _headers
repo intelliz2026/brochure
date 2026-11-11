@@ -1,0 +1,6 @@
+/b/*
+  Cache-Control: public, max-age=86400
+/brochures.js
+  Cache-Control: public, max-age=300
+/logo.svg
+  Cache-Control: public, max-age=86400
